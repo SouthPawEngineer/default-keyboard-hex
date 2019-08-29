@@ -1,0 +1,1 @@
+Default hex files for use  with Southpaw Design keyboards. The root folder contains hex files for the keyboard and receiver to be uploaded via BMP or ST-Link. The "qmk-hex" folder has default hex files to be uploaded via USB to the receiver. These files can be flashed to the receiver via avrdude or AVRDUDESS. AVRDUDESS is recommended, using the AVR109 bootloader.
